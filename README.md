@@ -1,7 +1,5 @@
 # Compiler
 
-A compiler for J--, a subset of Java, that generates JVM bytecode.
-
 Course project for Compilers (L.EIC - FEUP, 2024/2025)
 
 ### Overview
